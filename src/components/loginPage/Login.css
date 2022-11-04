@@ -1,0 +1,81 @@
+/* .main{
+    height: 800px;
+    margin-top: 0;
+} */
+
+
+.lform{
+    width: 400px;
+    height: 370px;
+    background: linear-gradient(to top, rgba(0,0,0,0.8)50%, rgba(0,0,0,0.8)50%);
+    position: inherit;
+    margin-top: 7%;
+    margin-left: 30%;
+    border-radius: 10px;
+    padding: 30px;
+}
+.lform h2{
+    width: 300px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #ff7200;
+    border-radius: 10px;
+    margin: 27px 20px 16px 36px;
+    padding: 8px;
+    background-color: #fff;
+}
+.lform input{
+    width: 340px;
+    height: 35px;
+    background: transparent;
+    border-bottom: 1px solid #ff7200;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: #fff;
+    font-size: 15x;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    margin-left: 7%;
+    font-family: sans-serif;
+}
+.form input:focus{
+    outline: none;
+
+}
+.btn2{
+    width: 340px;
+    height: 35px;
+    background: #ff7200;
+    border: none;
+    margin-top: 37px;
+    margin-left: 7%;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #fff;
+
+}
+.btn2 a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.lform .link{
+    width: 300px;
+    height: 10px;
+    margin-left: 25px;
+    padding-top: 10px;
+    text-align: center;
+    color: #fff;
+    font-size: 17px;
+}
+.lform .link a{
+    text-decoration: none;
+    color: #ff7200;
+    margin-top: 3%;
+    margin-left: 18%;
+    font-family: sans-serif;
+    font-size: 13x;
+    opacity: 40%;
+}
